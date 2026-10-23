@@ -47,17 +47,4 @@ and try to beat your high score without crashing into the walls or yourself!
 | ←   | Move left  |
 | →   | Move right |
 
-## 📸 Screenshot
 
-![Snake Game Screenshot](screenshot.png)
-
-## 💡 What I Learned
-
-- Handling keyboard input and game loops in Python
-- Collision detection
-- Working with coordinates and movement on a grid
-<!-- add anything else you learned while building it -->
-
-## 👩‍💻 Author
-
-**Hellen**: [GitHub Profile](https://github.com/YOUR-USERNAME)
